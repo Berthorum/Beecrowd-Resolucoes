@@ -10,8 +10,8 @@ void main() {
   data.forEach((item) => dataConverted.add(double.parse(item)));
 
   for (int i = 0; i < dataConverted.length; i++) {
-    for (int j = 0; j < dataConverted.length; j++) {
-      if (dataConverted[i] > dataConverted[j]) {
+    for (int j = i + 1; j < dataConverted.length; j++) {
+      if (dataConverted[i] < dataConverted[j]) {
         aux = dataConverted[i];
         dataConverted[i] = dataConverted[j];
         dataConverted[j] = aux;
