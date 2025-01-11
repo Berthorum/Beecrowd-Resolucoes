@@ -15,7 +15,7 @@ void main() {
   double totalHoras = 0;
   double totalMin = 0;
 
-  if (horaFinal <= horaInicial) {
+  if (horaFinalTotal <= horaInicialTotal) {
     totalHoras = (24 - horaInicialTotal) + horaFinalTotal;
   } else {
     totalHoras = horaFinalTotal - horaInicialTotal;

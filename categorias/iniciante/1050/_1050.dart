@@ -30,6 +30,7 @@ void main() {
       cidade = "Belo Horizonte";
       break;
     default:
+      cidade = "DDD nao cadastrado";
       break;
   }
 
