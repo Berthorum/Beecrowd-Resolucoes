@@ -7,6 +7,8 @@
 
 - No momento as soluções estão sendo desenvolvidas majoritariamente na linguagem de programação Dart.
   
+- Os exercícios que contém o comentário "Resolução com Consulta (linguagem)" significa que consultei uma resolução do exercício, na linguagem de programação especificada entre parênteses, para entender como resolvê-lo. Há também o link para a resolução consultada.
+  
 
 [Meu perfil](https://judge.beecrowd.com/pt/profile/450406)
 
