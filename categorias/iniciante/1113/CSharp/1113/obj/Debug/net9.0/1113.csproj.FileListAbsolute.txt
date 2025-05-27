@@ -1,0 +1,15 @@
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\bin\Debug\net9.0\1113.exe
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\bin\Debug\net9.0\1113.deps.json
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\bin\Debug\net9.0\1113.runtimeconfig.json
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\bin\Debug\net9.0\1113.dll
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\bin\Debug\net9.0\1113.pdb
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\1113.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\1113.AssemblyInfoInputs.cache
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\1113.AssemblyInfo.cs
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\1113.csproj.CoreCompileInputs.cache
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\1113.sourcelink.json
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\1113.dll
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\refint\1113.dll
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\1113.pdb
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\1113.genruntimeconfig.cache
+c:\Users\Ravier de Oliveira\Documents\Study\Beecrowd\categorias\iniciante\1113\CSharp\1113\obj\Debug\net9.0\ref\1113.dll
